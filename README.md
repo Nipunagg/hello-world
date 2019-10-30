@@ -1,4 +1,4 @@
 # hello-world
 just started
-hey i m nipun
-i m passionate to learn about anything related to computer.
+Hey i am nipun
+I am passionate to learn about anything related to computer.
